@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Kan Li
+        Kan Li 2 
         Research Group
       image:
         filename: welcome.jpg
